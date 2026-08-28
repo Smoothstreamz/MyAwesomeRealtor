@@ -40,3 +40,8 @@ Static, GitHub-Pages-ready real estate website for Steven Lartiga.
 - NJ home seller closing costs guide
 - Selling a two-family home in Kearny guide
 - North Jersey landlord rental guide
+
+
+## V2 updates
+- Search Homes buttons now open the supplied Rosa Agency IDX active-listings search.
+- Rosa Agency Realtors logo is shown in the site header and footer.
